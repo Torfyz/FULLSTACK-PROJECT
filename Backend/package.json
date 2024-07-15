@@ -6,7 +6,7 @@
     "dev": "tsx watch src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jorge",
   "license": "ISC",
   "description": "",
   "devDependencies": {
